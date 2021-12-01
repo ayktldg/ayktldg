@@ -22,16 +22,16 @@
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
   <img alt="Github Pages" src="https://img.shields.io/badge/-Github Pages-222222?style=flat-square&logo=githubpages&logoColor=white" />
  </p>
-
-### Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=ayktldg alt=ayktldg /> </p>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=ayktldg&show_icons=true&include_all_commits=true&theme=dark)](https://github.com/ayktldg/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayktldg&layout=compact&theme=dark)](https://github.com/ayktldg/github-readme-stats)
-  
-### Get in Touch
+ 
+ ### Get in Touch
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aykutuludag26@gmail.com)](mailto:aykutuludag26@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aykut-uludag/)](https://www.linkedin.com/in/aykut-uludag/) [![Github Badge](https://img.shields.io/badge/-Github-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ayktldg/)](https://www.github.com/ayktldg/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/ayktldg26/)](https://www.twitter.com/ayktldg26/) 
+
+  ---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayktldg&layout=compact&theme=dark)](https://github.com/ayktldg/github-readme-stats)
+  
+
 <!--
 **ayktldg/ayktldg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

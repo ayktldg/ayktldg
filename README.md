@@ -1,5 +1,5 @@
 ## Hi there! 👋
-<p align='left'>My name is Aykut Uludag and I'm a full stack developer.</p>
+<p align='left'>My name is Aykut Uludag and I'm a frontend developer.</p>
 
 ### Things I Code With
 <p>
